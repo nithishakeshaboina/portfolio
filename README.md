@@ -1,12 +1,10 @@
-
 # My Portfolio Project
 
-Name: K Nithisha
+**Name:** Keshaboina Nithisha  
+**Course:** B.Tech CSE (Networks)  
 
-Course: B.Tech CSE (Networks)
+This is a dummy project created for the **Summer Internship 2026 Git Assignment**.
 
-This is a dummy project created for Summer Internship 2026 Git Assignment.
-
-# portfolio
-My Summer Internship 2026 Git Assignment
-
+## Files in this repository
+- `index.html` – Portfolio webpage
+- `README.md` – Project description
